@@ -1,4 +1,5 @@
 # Luggage Tracking System using Blockchain
+This project won the first place at the Dauphine Hackaton 2023 organized by Kryptosphere
 
 ## Problem
 - Travelers often face stress during their journeys due to uncertainty about the whereabouts of their luggage.
@@ -28,3 +29,6 @@ Our solution involves implementing a baggage tracking system using a reliable de
     - When a QR code is scanned, the associated information is sent to a central server.
 - Retrieval by the Smart Contract of the Address and ID:
     - The Smart Contract retrieves the address and ID data, then updates the status of the suitcase based on the reached checkpoint (check-in, in-pending, etc.).
+
+## Demo
+https://github.com/Shimadakunn/lugtrack/assets/89693356/d35426c2-6265-4837-9d34-01c6573a33af
