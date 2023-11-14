@@ -13,6 +13,7 @@ Our solution involves implementing a baggage tracking system using a reliable de
 - Reducing the risk of suitcase loss.
 
 ## Product
+![Diagram](https://github.com/MarcBTHT/lugtrack/assets/116173196/4b448779-b79b-43b4-a777-0188fa4d9e8e)
 - Creation of a Public Address for Each Suitcase during Registration:
     - Whenever a user registers their suitcase, a unique public address is created for that suitcase.
 - Recording Transactions at Each Checkpoint:
